@@ -29,18 +29,22 @@ Helps visualize student performance per department
 Shows course–teacher–student relationship
 Forms the base for academic analytics dashboards
 
-👨‍💻 Author
+---
 
-Kuldeep Sharma
-Assistant Professor | Data Analyst Aspirant
-📍 India
-
-
-📎 Project Structure
+### 📎 Project Structure
 📁 College_Database_System_Project/
 - ┣ 📄 schema.sql        → Database Design
 - ┣ 📄 data.sql          → Sample Data
 - ┣ 📄 queries.sql       → Analytical SQL Queries
 - ┗ 📄 README.md         → Project Description
+
+---
+
+### 👨‍💻 Author
+Kuldeep Sharma
+Assistant Professor | Data Analyst Aspirant
+📍 India
+
+
 
 
