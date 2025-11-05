@@ -38,9 +38,9 @@ Assistant Professor | Data Analyst Aspirant
 
 📎 Project Structure
 📁 College_Database_System_Project/
- ┣ 📄 schema.sql        → Database Design
- ┣ 📄 data.sql          → Sample Data
- ┣ 📄 queries.sql       → Analytical SQL Queries
- ┗ 📄 README.md         → Project Description
+- ┣ 📄 schema.sql        → Database Design
+- ┣ 📄 data.sql          → Sample Data
+- ┣ 📄 queries.sql       → Analytical SQL Queries
+- ┗ 📄 README.md         → Project Description
 
 
