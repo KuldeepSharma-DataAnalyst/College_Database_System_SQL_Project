@@ -1,15 +1,12 @@
-🎓 College Database Management System (SQL Project)
+# 🎓 College Database Management System (SQL Project)
 
-SQL project demonstrating database design, queries, and analysis for a college management system.
-
-
-📌 Overview
-
+### 📌 Overview
 This project is designed to simulate a real college management database using SQL.
 It manages data for students, teachers, courses, enrollments, and marks, making it an excellent practice for DBMS and Data Analyst aspirants.
 
-🧱 Database Design
+---
 
+### 🧱 Database Design
 | Table         | Description                          |
 | ------------- | ------------------------------------ |
 | `students`    | Stores student personal details      |
@@ -18,16 +15,16 @@ It manages data for students, teachers, courses, enrollments, and marks, making 
 | `enrollments` | Links students with enrolled courses |
 | `marks`       | Records marks and exam details       |
 
+---
 
-🧰 Tools & Technologies
-
+### 🧰 Tools & Technologies
 Database: PostgreSQL / MySQL
 Tool: pgAdmin / MySQL Workbench
 Language: SQL (DDL, DML, Joins, Aggregations)
 
+---
 
-📈 Key Insights
-
+### 📈 Key Insights
 Helps visualize student performance per department
 Shows course–teacher–student relationship
 Forms the base for academic analytics dashboards
