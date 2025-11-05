@@ -6,6 +6,13 @@ It manages data for students, teachers, courses, enrollments, and marks, making 
 
 ---
 
+### 🧰 Tools & Technologies
+- Database: PostgreSQL / MySQL
+- Tool: pgAdmin / MySQL Workbench
+- Language: SQL (DDL, DML, Joins, Aggregations)
+
+---
+
 ### 🧱 Database Design
 | Table         | Description                          |
 | ------------- | ------------------------------------ |
@@ -17,17 +24,10 @@ It manages data for students, teachers, courses, enrollments, and marks, making 
 
 ---
 
-### 🧰 Tools & Technologies
-- Database: PostgreSQL / MySQL
-- Tool: pgAdmin / MySQL Workbench
-- Language: SQL (DDL, DML, Joins, Aggregations)
-
----
-
 ### 📈 Key Insights
-Helps visualize student performance per department
-Shows course–teacher–student relationship
-Forms the base for academic analytics dashboards
+- Helps visualize student performance per department
+- Shows course–teacher–student relationship
+- Forms the base for academic analytics dashboards
 
 ---
 
