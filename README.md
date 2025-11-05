@@ -18,9 +18,9 @@ It manages data for students, teachers, courses, enrollments, and marks, making 
 ---
 
 ### 🧰 Tools & Technologies
-Database: PostgreSQL / MySQL
-Tool: pgAdmin / MySQL Workbench
-Language: SQL (DDL, DML, Joins, Aggregations)
+- Database: PostgreSQL / MySQL
+- Tool: pgAdmin / MySQL Workbench
+- Language: SQL (DDL, DML, Joins, Aggregations)
 
 ---
 
